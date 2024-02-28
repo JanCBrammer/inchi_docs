@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['val_5fbase_0',['VAL_BASE',['../ichirvrs_8h.html#acd46d11c3781b1e7a81ab59be6b3c60f',1,'ichirvrs.h']]],
+  ['val_5flength_1',['VAL_LENGTH',['../ichirvrs_8h.html#a9c35faaffc2428065623d2bee41200a1',1,'ichirvrs.h']]],
+  ['val_5fmax_5fcharge_2',['VAL_MAX_CHARGE',['../ichirvrs_8h.html#a9aceb0d0b9364c266d38009334676026',1,'ichirvrs.h']]],
+  ['val_5fmin_5fcharge_3',['VAL_MIN_CHARGE',['../ichirvrs_8h.html#a46e905054d98f1e0da00af8ddc516e5b',1,'ichirvrs.h']]],
+  ['val_5fnegat_5fcharge_4',['VAL_NEGAT_CHARGE',['../ichirvrs_8h.html#aa10712688d75d1c441689603775f2a81',1,'ichirvrs.h']]],
+  ['val_5fneutr_5fcharge_5',['VAL_NEUTR_CHARGE',['../ichirvrs_8h.html#afedd7452bcf65b0cb292b5e7a124e35e',1,'ichirvrs.h']]],
+  ['val_5fneutr_5forder_6',['VAL_NEUTR_ORDER',['../ichirvrs_8h.html#a9a6ca4eb7ea1de9136a5922e4978cf62',1,'ichirvrs.h']]],
+  ['val_5fnumber_7',['VAL_NUMBER',['../ichirvrs_8h.html#a396401a2ebf6ad1b74e586b1c1558a06',1,'ichirvrs.h']]],
+  ['val_5fposit_5fcharge_8',['VAL_POSIT_CHARGE',['../ichirvrs_8h.html#ae64609e7cbbc0aa66bebabe43571cbbf',1,'ichirvrs.h']]],
+  ['valencealtbns_9',['valenceAltBns',['../ichi__bns_8c.html#a8904d395726a035f6ac6dc2895cbaf06',1,'ichi_bns.c']]],
+  ['value_5foctet_10',['VALUE_OCTET',['../ichirvrs_8h.html#a940ba24b44c5ab4cbb4d02996266e973',1,'ichirvrs.h']]],
+  ['ver103_5fdefault_5fmode_11',['VER103_DEFAULT_MODE',['../ichiparm_8c.html#a846cb3bd9304573a99cd52ef60001570',1,'ichiparm.c']]],
+  ['vertex_5fs_12',['Vertex_s',['../ichi__bns_8h.html#a527ee2d04f0434311e67c29a4191b5ec',1,'ichi_bns.h']]],
+  ['vertex_5ft_13',['Vertex_t',['../ichi__bns_8h.html#af3f02783531c181fdcbaec04c9912f54',1,'ichi_bns.h']]],
+  ['vf_5fused_5fall_14',['VF_USED_ALL',['../ichirvr1_8c.html#a890885f3b1ad4d8a49a1e79f967e5e4c',1,'ichirvr1.c']]],
+  ['vf_5fused_5fin_15',['VF_USED_IN',['../ichirvr1_8c.html#aa8a802745cb99fea695a53edefcc0796',1,'ichirvr1.c']]],
+  ['vf_5fused_5fout_16',['VF_USED_OUT',['../ichirvr1_8c.html#ab7d485f70c6cedae568d32b2141fcfda',1,'ichirvr1.c']]]
+];

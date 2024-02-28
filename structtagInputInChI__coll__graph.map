@@ -1,0 +1,13 @@
+<map id="tagInputInChI" name="tagInputInChI">
+<area shape="rect" id="node1" title=" " alt="" coords="759,204,868,231"/>
+<area shape="rect" id="node2" href="$structtagINChI.html" title=" " alt="" coords="463,75,541,101"/>
+<area shape="rect" id="node3" href="$structtagINChI__IsotopicAtom.html" title=" " alt="" coords="35,5,206,32"/>
+<area shape="rect" id="node4" href="$structtagINChI__IsotopicTGroup.html" title=" " alt="" coords="29,56,212,83"/>
+<area shape="rect" id="node5" href="$structtagINChI__Stereo.html" title=" " alt="" coords="57,116,184,143"/>
+<area shape="rect" id="node6" href="$structtagRemovedAndExchangeableH.html" title=" " alt="" coords="387,153,617,180"/>
+<area shape="rect" id="node7" href="$structtagOneComponentRemovedAndExchangeableH.html" title=" " alt="" coords="5,167,236,209"/>
+<area shape="rect" id="node8" href="$structtagInputAtom.html" title=" " alt="" coords="447,204,557,231"/>
+<area shape="rect" id="node9" href="$structOAD__Polymer.html" title=" " alt="" coords="446,255,558,281"/>
+<area shape="rect" id="node10" href="$structOAD__PolymerUnit.html" title=" " alt="" coords="51,255,190,281"/>
+<area shape="rect" id="node11" href="$structOAD__V3000.html" title=" " alt="" coords="453,305,551,332"/>
+</map>

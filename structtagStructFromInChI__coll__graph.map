@@ -1,0 +1,29 @@
+<map id="tagStructFromInChI" name="tagStructFromInChI">
+<area shape="rect" id="node1" title=" " alt="" coords="896,387,1043,413"/>
+<area shape="rect" id="node2" href="$structtagInputAtom.html" title=" " alt="" coords="236,75,347,101"/>
+<area shape="rect" id="node24" href="$structtagInputAtomData.html" title=" " alt="" coords="563,120,705,147"/>
+<area shape="rect" id="node3" href="$structtagInpAtomAddParities.html" title=" " alt="" coords="549,176,719,203"/>
+<area shape="rect" id="node4" href="$structtagTautomerGroupsInfo.html" title=" " alt="" coords="547,227,721,253"/>
+<area shape="rect" id="node5" href="$structtagTautomerGroup.html" title=" " alt="" coords="220,141,363,168"/>
+<area shape="rect" id="node6" href="$structtagTautomerNormInfo.html" title=" " alt="" coords="209,192,374,219"/>
+<area shape="rect" id="node7" href="$structtagXYZCoord.html" title=" " alt="" coords="581,285,687,312"/>
+<area shape="rect" id="node8" href="$structBalancedNetworkStructure.html" title=" " alt="" coords="536,336,732,363"/>
+<area shape="rect" id="node9" href="$structBnsVertex.html" title=" " alt="" coords="247,243,335,269"/>
+<area shape="rect" id="node10" href="$structBnsStEdge.html" title=" " alt="" coords="5,243,96,269"/>
+<area shape="rect" id="node11" href="$structBnsEdge.html" title=" " alt="" coords="252,293,331,320"/>
+<area shape="rect" id="node12" href="$unionBnsAltPath.html" title=" " alt="" coords="245,344,337,371"/>
+<area shape="rect" id="node13" href="$structtagINCHI__CLOCK.html" title=" " alt="" coords="226,395,357,421"/>
+<area shape="rect" id="node14" href="$structtagInchiTime.html" title=" " alt="" coords="238,445,345,472"/>
+<area shape="rect" id="node15" href="$structBalancedNetworkData.html" title=" " alt="" coords="550,387,718,413"/>
+<area shape="rect" id="node16" href="$structtagStructRestoreMode.html" title=" " alt="" coords="551,437,717,464"/>
+<area shape="rect" id="node17" href="$structtagReversedInChI.html" title=" " alt="" coords="565,488,703,515"/>
+<area shape="rect" id="node18" href="$structtagINChI.html" title=" " alt="" coords="595,539,673,565"/>
+<area shape="rect" id="node19" href="$structtagINChI__IsotopicAtom.html" title=" " alt="" coords="206,496,377,523"/>
+<area shape="rect" id="node20" href="$structtagINChI__IsotopicTGroup.html" title=" " alt="" coords="200,547,383,573"/>
+<area shape="rect" id="node21" href="$structtagINChI__Stereo.html" title=" " alt="" coords="228,600,355,627"/>
+<area shape="rect" id="node22" href="$structtagINChI__Aux.html" title=" " alt="" coords="579,589,689,616"/>
+<area shape="rect" id="node23" href="$structtagOrigInfo.html" title=" " alt="" coords="244,651,339,677"/>
+<area shape="rect" id="node25" href="$structtagBfsQueue.html" title=" " alt="" coords="581,640,687,667"/>
+<area shape="rect" id="node26" href="$structtagQieue.html" title=" " alt="" coords="251,701,332,728"/>
+<area shape="rect" id="node27" href="$structtagAtomIonPrperies.html" title=" " alt="" coords="559,691,709,717"/>
+</map>

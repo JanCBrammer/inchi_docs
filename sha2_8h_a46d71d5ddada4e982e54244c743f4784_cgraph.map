@@ -1,0 +1,7 @@
+<map id="sha2_hmac" name="sha2_hmac">
+<area shape="rect" id="node1" title="Output = HMAC&#45;SHA&#45;256( input buffer, hmac key )" alt="" coords="5,56,101,83"/>
+<area shape="rect" id="node2" href="$sha2_8c.html#a2762ab9bf6601a7ab2f2bee3eb72b22a" title="SHA&#45;256 final digest." alt="" coords="151,5,245,32"/>
+<area shape="rect" id="node3" href="$sha2_8c.html#abe89ecad33cb50bfa16c0dbd62adbb52" title="SHA&#45;256 process buffer." alt="" coords="295,31,400,57"/>
+<area shape="rect" id="node5" href="$sha2_8c.html#aaa0bff1f1bcda10be83c3bf2f3af690b" title="SHA&#45;256 context setup." alt="" coords="149,107,247,133"/>
+<area shape="rect" id="node4" href="$sha2_8c.html#a53f921af9a5158ae9302bbf806a8c56b" title=" " alt="" coords="448,31,559,57"/>
+</map>

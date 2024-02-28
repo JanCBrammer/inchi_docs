@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['radedges_0',['RadEdges',['../structBalancedNetworkData.html#aa23ceeac38e345bcd92afad52cbc94b7',1,'BalancedNetworkData']]],
+  ['radendpoints_1',['RadEndpoints',['../structBalancedNetworkData.html#a7b7b89b46e89050b5f5abde06a2735a8',1,'BalancedNetworkData']]],
+  ['radical_2',['radical',['../structtagAtom.html#ace79c9275b71babeb851e30b17aa950f',1,'tagAtom::radical()'],['../structtagInchiAtom.html#a22fd75b025dbb085af107f58f2558a60',1,'tagInchiAtom::radical()'],['../structtagNormAtom.html#a528c0cbd9918f768a27163b157f7a5a0',1,'tagNormAtom::radical()'],['../structtagInputAtom.html#a381137ae2692797613f8f046a7f45d33',1,'tagInputAtom::radical()'],['../structA__MOL__FMT__ATOM.html#a23dfcef3f337fb58711e67b76485b02a',1,'A_MOL_FMT_ATOM::radical()']]],
+  ['rank_3',['rank',['../structtagEquNeigh.html#a84eb2326a7722a70d8397774cd9ec1ee',1,'tagEquNeigh']]],
+  ['rank_4',['Rank',['../structtagPartition.html#a3b6b392d03815aabc35b5fcff0e0e373',1,'tagPartition']]],
+  ['rank_5fmark_5fbit_5',['rank_mark_bit',['../ichican2_8c.html#ae6b4d53980747fbbad4ed92127764601',1,'ichican2.c']]],
+  ['rank_5fmask_5fbit_6',['rank_mask_bit',['../ichican2_8c.html#a263b19acdb70d37d06039e51e31d812e',1,'ichican2.c']]],
+  ['rcpict_7',['rcPict',['../structtagPersistDrawParms.html#a8ca98396d2c77d75b751ad043ee08165',1,'tagPersistDrawParms']]],
+  ['rdp_8',['rdp',['../structtagDrawParms.html#a9e994bf7d8fe56adb76cdf6287b2ecc5',1,'tagDrawParms']]],
+  ['really_5fdo_5fframe_5fshift_9',['really_do_frame_shift',['../structOAD__Polymer.html#a8ebbafe2ba92655d93c5ee84a07a0d35',1,'OAD_Polymer']]],
+  ['representation_10',['representation',['../structOAD__PolymerUnit.html#a227700b08b8702f89da1339b2b750ecb',1,'OAD_PolymerUnit::representation()'],['../structOAD__Polymer.html#a743ae02964185020b651490b84ef5987',1,'OAD_Polymer::representation()']]],
+  ['reqshownfound_11',['ReqShownFound',['../structtagTblDrawPatms.html#a0228b1f212c2b5bcf7f6c409a301a520',1,'tagTblDrawPatms']]],
+  ['reqshownfoundtxt_12',['ReqShownFoundTxt',['../structtagTblDrawPatms.html#a7a57f00ef3e7caa464e6233bcd23a3dc',1,'tagTblDrawPatms']]],
+  ['revinchi_13',['RevInChI',['../structtagStructFromInChI.html#aafe570fd1a76a58aea21b9842bb3f3af',1,'tagStructFromInChI']]],
+  ['ring_5ferank_14',['ring_erank',['../structOAD__AtProps.html#a88a670b210da71751bd12ef81e069fb9',1,'OAD_AtProps']]],
+  ['ring_5fnum_15',['ring_num',['../structOAD__AtProps.html#a3f78bfae5ebc5cc25a50a1570a1def0d',1,'OAD_AtProps']]],
+  ['ring_5fsize_16',['ring_size',['../structOAD__AtProps.html#a6b535424a30d81f7930052e96f697f1c',1,'OAD_AtProps']]]
+];

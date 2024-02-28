@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['sd_5ffmt_5fend_5fof_5fdata_5fblock_0',['SD_FMT_END_OF_DATA_BLOCK',['../mol__fmt4_8c.html#adf764cbdea00d65edcd07bb9953ad2b7a95f422234134c63568df01cf8fd34565',1,'mol_fmt4.c']]],
+  ['sd_5ffmt_5fend_5fof_5fdata_5fitem_1',['SD_FMT_END_OF_DATA_ITEM',['../mol__fmt4_8c.html#adf764cbdea00d65edcd07bb9953ad2b7a73f4a6621717ea26b6830074f66671da',1,'mol_fmt4.c']]],
+  ['sdf_5fdata_5fheader_2',['SDF_DATA_HEADER',['../mol__fmt4_8c.html#adf764cbdea00d65edcd07bb9953ad2b7af72337fea176272747443452a4609494',1,'mol_fmt4.c']]],
+  ['sdf_5fdata_5fheader_5fcas_3',['SDF_DATA_HEADER_CAS',['../mol__fmt4_8c.html#adf764cbdea00d65edcd07bb9953ad2b7a0c0b93a81f10c54d195d4e787b53abf0',1,'mol_fmt4.c']]],
+  ['sdf_5fdata_5fheader_5fcomment_4',['SDF_DATA_HEADER_COMMENT',['../mol__fmt4_8c.html#adf764cbdea00d65edcd07bb9953ad2b7a237b26f7f6e7ca5ae125c7a8c42ce7de',1,'mol_fmt4.c']]],
+  ['sdf_5fdata_5fheader_5fname_5',['SDF_DATA_HEADER_NAME',['../mol__fmt4_8c.html#adf764cbdea00d65edcd07bb9953ad2b7a3f981284c254666a17fdb573e57b8a41',1,'mol_fmt4.c']]],
+  ['sdf_5fdata_5fheader_5fuser_6',['SDF_DATA_HEADER_USER',['../mol__fmt4_8c.html#adf764cbdea00d65edcd07bb9953ad2b7a4bb0a029ff54574ed3ce1bf5824db453',1,'mol_fmt4.c']]],
+  ['sdf_5fdata_5fline_7',['SDF_DATA_LINE',['../mol__fmt4_8c.html#adf764cbdea00d65edcd07bb9953ad2b7ad523061dd18004f39cffc951d3225370',1,'mol_fmt4.c']]],
+  ['sdf_5fempty_5fline_8',['SDF_EMPTY_LINE',['../mol__fmt4_8c.html#adf764cbdea00d65edcd07bb9953ad2b7a8e3fcd4d40013bab712eaddc4e93124c',1,'mol_fmt4.c']]],
+  ['sdf_5fstart_9',['SDF_START',['../mol__fmt4_8c.html#adf764cbdea00d65edcd07bb9953ad2b7a70bf2f70321cfcacf1401e01f340033a',1,'mol_fmt4.c']]],
+  ['sp3_5fabs_10',['SP3_ABS',['../ichimake_8c.html#a15d0cb34c93e0a01691f84c701417476a6e9b0cb21d90130d603515072ad6a506',1,'ichimake.c']]],
+  ['sp3_5fany_11',['SP3_ANY',['../ichimake_8c.html#a15d0cb34c93e0a01691f84c701417476a1092495197c764edf1c3898ef90f2b34',1,'ichimake.c']]],
+  ['sp3_5fnone_12',['SP3_NONE',['../ichimake_8c.html#a15d0cb34c93e0a01691f84c701417476a416ca50012679ca7cdb9049ab1dc9dcb',1,'ichimake.c']]],
+  ['sp3_5fonly_13',['SP3_ONLY',['../ichimake_8c.html#a15d0cb34c93e0a01691f84c701417476a934bd90bdf32a59fa187b26a71e0aeca',1,'ichimake.c']]],
+  ['sp3_5frac_14',['SP3_RAC',['../ichimake_8c.html#a15d0cb34c93e0a01691f84c701417476acc38269bc12b6a5148f93e78a3778c99',1,'ichimake.c']]],
+  ['sp3_5frel_15',['SP3_REL',['../ichimake_8c.html#a15d0cb34c93e0a01691f84c701417476a6875154e2a8347d7e9c9f4d4fa955419',1,'ichimake.c']]],
+  ['sp3_5ftype_16',['SP3_TYPE',['../ichimake_8c.html#a15d0cb34c93e0a01691f84c701417476a4fd8726c8611638e7d0fa2194bc36aa8',1,'ichimake.c']]]
+];

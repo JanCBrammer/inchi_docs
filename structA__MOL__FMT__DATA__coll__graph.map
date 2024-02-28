@@ -1,0 +1,12 @@
+<map id="A_MOL_FMT_DATA" name="A_MOL_FMT_DATA">
+<area shape="rect" id="node1" title=" " alt="" coords="70,421,213,448"/>
+<area shape="rect" id="node2" href="$structA__MOL__FMT__HEADER__BLOCK.html" title=" " alt="" coords="6,332,221,359"/>
+<area shape="rect" id="node3" href="$structA__MOL__FMT__CTAB.html" title=" " alt="" coords="245,332,387,359"/>
+<area shape="rect" id="node4" href="$structA__MOL__FMT__ATOM.html" title=" " alt="" coords="5,243,152,269"/>
+<area shape="rect" id="node5" href="$structA__MOL__FMT__BOND.html" title=" " alt="" coords="177,243,325,269"/>
+<area shape="rect" id="node6" href="$structA__MOL__FMT__SGROUPS.html" title=" " alt="" coords="349,243,521,269"/>
+<area shape="rect" id="node7" href="$structA__MOL__FMT__SGROUP.html" title=" " alt="" coords="353,109,517,136"/>
+<area shape="rect" id="node8" href="$structtagINT__ARRAY.html" title=" " alt="" coords="377,5,492,32"/>
+<area shape="rect" id="node9" href="$structA__MOL__FMT__v3000.html" title=" " alt="" coords="545,243,695,269"/>
+<area shape="rect" id="node10" href="$structA__NUM__LISTS.html" title=" " alt="" coords="564,109,676,136"/>
+</map>

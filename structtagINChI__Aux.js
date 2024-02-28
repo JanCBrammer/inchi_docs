@@ -1,0 +1,26 @@
+var structtagINChI__Aux =
+[
+    [ "bDeleted", "structtagINChI__Aux.html#a31785d2499332bd7253c41db49ba216f", null ],
+    [ "bIsIsotopic", "structtagINChI__Aux.html#a998826af70bdc676daab6a96fd833d87", null ],
+    [ "bIsTautomeric", "structtagINChI__Aux.html#ade60d16d8f4026f82b43ba237801c4e6", null ],
+    [ "bNormalizationFlags", "structtagINChI__Aux.html#a08be137b304c4a5c2dfc0d5b9a4aad9e", null ],
+    [ "bTautFlags", "structtagINChI__Aux.html#aec1bf92d0805d224c24ed08ba7a3c4aa", null ],
+    [ "bTautFlagsDone", "structtagINChI__Aux.html#a5d52fe8575dc89f5b2a0ca7cd6136425", null ],
+    [ "nCanonFlags", "structtagINChI__Aux.html#ad584743f33390bac3c974af43894fb5e", null ],
+    [ "nConstitEquIsotopicNumbers", "structtagINChI__Aux.html#a5a656273eaf293039d0d076854f7e542", null ],
+    [ "nConstitEquIsotopicTGroupNumbers", "structtagINChI__Aux.html#abc928f9893fa0d62d85b75d8c594f796", null ],
+    [ "nConstitEquNumbers", "structtagINChI__Aux.html#aeaa6b3f6bd9d8a06d0c2ad35ad9c9ca0", null ],
+    [ "nConstitEquTGroupNumbers", "structtagINChI__Aux.html#add64eda53acde26d558a06f0a870006d", null ],
+    [ "nErrorCode", "structtagINChI__Aux.html#aff264eedc53724037ca968ea17df40d5", null ],
+    [ "nIsotopicOrigAtNosInCanonOrd", "structtagINChI__Aux.html#a3e0c9b22cf1f0c3cf11e553449cedb6d", null ],
+    [ "nIsotopicOrigAtNosInCanonOrdInv", "structtagINChI__Aux.html#adf71a8f44a46829dd1f0b9a952bd09be", null ],
+    [ "nNumberOfAtoms", "structtagINChI__Aux.html#ac9ee88ce2f286efc453f57cc2573612c", null ],
+    [ "nNumberOfTGroups", "structtagINChI__Aux.html#abbc6f96980d9c77b3efecc63eba70ccc", null ],
+    [ "nNumRemovedIsotopicH", "structtagINChI__Aux.html#aef9834d343fc66de36e4af591a8ca944", null ],
+    [ "nNumRemovedProtons", "structtagINChI__Aux.html#a8cbd195f9aab966798314d62a42f0c22", null ],
+    [ "nOrigAtNosInCanonOrd", "structtagINChI__Aux.html#a1373acb0a6961cbe7a5a1caa2ff24cc3", null ],
+    [ "nOrigAtNosInCanonOrdInv", "structtagINChI__Aux.html#a85c306154d883a916350617cdcebe26b", null ],
+    [ "nRefCount", "structtagINChI__Aux.html#a006f2c9e437898a30f52e17d6366b720", null ],
+    [ "OrigInfo", "structtagINChI__Aux.html#a1cf1f46e57723cf69915d7ad25065ce6", null ],
+    [ "szOrigCoord", "structtagINChI__Aux.html#a83b1d63749b60a8c3048201f4a67d33e", null ]
+];

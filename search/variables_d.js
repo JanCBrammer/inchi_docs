@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['one_5fti_0',['One_ti',['../structtagStructFromInChI.html#acb4929954a2736892239d89a9d6f0407',1,'tagStructFromInChI']]],
+  ['ord_1',['ord',['../structtagDerivAttachment.html#ad70fa6993748e3d8c5790f09e3ee6742',1,'tagDerivAttachment']]],
+  ['ord_5fnum_2',['ord_num',['../structtagTCGroup.html#a83c2dac5078111b2fbc18d488f0764f3',1,'tagTCGroup']]],
+  ['ord_5fnumber_3',['ord_number',['../structtagINChIforSort.html#a17b9c7531b3fc84212f3887ac551dee8',1,'tagINChIforSort']]],
+  ['ordc_4',['ordC',['../structtagRing2Chain.html#a04a3114b40f199a9ab2921cecca2d7ce',1,'tagRing2Chain']]],
+  ['ordcopt_5',['ordCopt',['../structtagRing2Chain.html#a123521f7d09f7244e38560f6f1f653cb',1,'tagRing2Chain']]],
+  ['ordw_6',['ordW',['../structtagRing2Chain.html#aed77e91cedaad9c03941062419212b03',1,'tagRing2Chain']]],
+  ['ordy_7',['ordY',['../structtagRing2Chain.html#ada9ffe6f1687adeed25a6ce1bbe65bf5',1,'tagRing2Chain']]],
+  ['orig2node_8',['orig2node',['../structsubgraf.html#a7decf2a6c0942894261a0704c416a0ad',1,'subgraf']]],
+  ['orig_5fat_5fnumber_9',['orig_at_number',['../structtagNormAtom.html#a827fbed1ccbb846cd5161d23e21625bc',1,'tagNormAtom::orig_at_number()'],['../structtagInputAtom.html#a597a31acb68717130a3399bbeb195e9a',1,'tagInputAtom::orig_at_number()'],['../structtagAtom.html#a2f26a2d548dc7372f30a0e7208c1be1f',1,'tagAtom::orig_at_number()']]],
+  ['orig_5fcompt_5fat_5fnumb_10',['orig_compt_at_numb',['../structtagAtom.html#ac6cc5b1ec1785486bc4e73940e8db7d8',1,'tagAtom::orig_compt_at_numb()'],['../structtagNormAtom.html#a757546229376283922ed42bc7418eeec',1,'tagNormAtom::orig_compt_at_numb()'],['../structtagInputAtom.html#a1b8e588c5a5ad4a72f9a82503d640dfd',1,'tagInputAtom::orig_compt_at_numb()']]],
+  ['orig_5finp_5fdata_11',['orig_inp_data',['../structtagPOSEContext.html#a9a097917cdeaadd18ae683b5e368cc81',1,'tagPOSEContext']]],
+  ['origatdata_12',['OrigAtData',['../structtagPOSEContext.html#a04dbb34ee17eb336e18194314b6acbe5',1,'tagPOSEContext']]],
+  ['originfo_13',['OrigInfo',['../structtagINChI__Aux.html#a1cf1f46e57723cf69915d7ad25065ce6',1,'tagINChI_Aux']]],
+  ['other_5fatom_14',['other_atom',['../structtagDerivAttachment.html#a117b6e8ff561c614d7626b236795ab4d',1,'tagDerivAttachment']]],
+  ['out_5ffile_15',['out_file',['../structtagPOSEContext.html#a58a0551eef51bb9ba506f1eb115c5ff8',1,'tagPOSEContext']]]
+];

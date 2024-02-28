@@ -1,0 +1,9 @@
+<map id="BalancedNetworkStructure" name="BalancedNetworkStructure">
+<area shape="rect" id="node1" title=" " alt="" coords="170,199,366,225"/>
+<area shape="rect" id="node2" href="$structBnsVertex.html" title=" " alt="" coords="7,95,95,121"/>
+<area shape="rect" id="node3" href="$structBnsStEdge.html" title=" " alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node4" href="$structBnsEdge.html" title=" " alt="" coords="119,95,198,121"/>
+<area shape="rect" id="node5" href="$unionBnsAltPath.html" title=" " alt="" coords="222,95,314,121"/>
+<area shape="rect" id="node6" href="$structtagINCHI__CLOCK.html" title=" " alt="" coords="339,95,469,121"/>
+<area shape="rect" id="node7" href="$structtagInchiTime.html" title=" " alt="" coords="493,95,600,121"/>
+</map>

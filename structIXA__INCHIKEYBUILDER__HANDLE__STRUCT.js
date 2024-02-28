@@ -1,0 +1,4 @@
+var structIXA__INCHIKEYBUILDER__HANDLE__STRUCT =
+[
+    [ "dummy", "structIXA__INCHIKEYBUILDER__HANDLE__STRUCT.html#a05b9920eaf912131e77483497347299a", null ]
+];

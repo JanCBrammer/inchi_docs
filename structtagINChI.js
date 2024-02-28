@@ -1,0 +1,25 @@
+var structtagINChI =
+[
+    [ "bDeleted", "structtagINChI.html#a787134e7bb5aa2b0d1cd81a4552ac026", null ],
+    [ "IsotopicAtom", "structtagINChI.html#a2db9aa5d3ba30e8e362f4f1577583514", null ],
+    [ "IsotopicTGroup", "structtagINChI.html#a6b43b1a5e8e1c64c5c2c18e2fcbf0b2b", null ],
+    [ "lenConnTable", "structtagINChI.html#ad8045e8df06f39a8a573471a393b37cf", null ],
+    [ "lenTautomer", "structtagINChI.html#a8b2e1b0d8f0130aca99037f5dfef286e", null ],
+    [ "nAtom", "structtagINChI.html#a4e36550606f4ca59ac071bc48381e957", null ],
+    [ "nConnTable", "structtagINChI.html#a36dae82ef15e5da14419a76ed748ccf3", null ],
+    [ "nErrorCode", "structtagINChI.html#ad50c8917586d4a26792757067a6bd0f0", null ],
+    [ "nFlags", "structtagINChI.html#a7aa36683dd93ec3db408ab11f8063821", null ],
+    [ "nLink", "structtagINChI.html#a90a6e4900f7c9cd0757e10c8cdc1a745", null ],
+    [ "nNum_H", "structtagINChI.html#a2d9d5e65f1ce1c471068c29f9befa3b5", null ],
+    [ "nNum_H_fixed", "structtagINChI.html#a2528adaa5e8166a6e47d2a999816a23f", null ],
+    [ "nNumberOfAtoms", "structtagINChI.html#a6ba8f200650f26d95a27a005e37a081b", null ],
+    [ "nNumberOfIsotopicAtoms", "structtagINChI.html#a87ee32b5f46e382afc647455e73ec9f8", null ],
+    [ "nNumberOfIsotopicTGroups", "structtagINChI.html#a0c5876ba666efcb1d55ee345e09f92dd", null ],
+    [ "nPossibleLocationsOfIsotopicH", "structtagINChI.html#ab06b1accd5c43429d66d89e323283128", null ],
+    [ "nRefCount", "structtagINChI.html#a7f6f098a0ff00aeed032953d090fe7fd", null ],
+    [ "nTautomer", "structtagINChI.html#aa6136b10de58b2e97d9ad3a4c01ab5e3", null ],
+    [ "nTotalCharge", "structtagINChI.html#a155840810b8a8b9ff9c994924bc09e4d", null ],
+    [ "Stereo", "structtagINChI.html#a950a7c21e6530511c250355c590e46e8", null ],
+    [ "StereoIsotopic", "structtagINChI.html#a0d48352bc61b2270096cbbad1e5380c3", null ],
+    [ "szHillFormula", "structtagINChI.html#a6add742f46c8b104c072d59ba3450bb8", null ]
+];

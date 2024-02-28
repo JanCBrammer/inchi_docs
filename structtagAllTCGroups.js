@@ -1,0 +1,27 @@
+var structtagAllTCGroups =
+[
+    [ "added_charge", "structtagAllTCGroups.html#a4f76a516db4a7df94e6159308ab6ab33", null ],
+    [ "charge_on_atoms", "structtagAllTCGroups.html#afa565a29addc0cf5c9ee63b2716a0074", null ],
+    [ "iAtNoOffset", "structtagAllTCGroups.html#a33375a56b8396bcc213796fb97c11ddc", null ],
+    [ "iComponent", "structtagAllTCGroups.html#a9fcc3fb129effa741067cd9b43ec6d31", null ],
+    [ "max_tc_groups", "structtagAllTCGroups.html#a2e418fbe36046a2563adcd796c25b1a8", null ],
+    [ "nAddIedges", "structtagAllTCGroups.html#aab446d64dfce0dc13ad54215d16edabd", null ],
+    [ "nEdge4charge", "structtagAllTCGroups.html#a877ce95bd1497b74a8b8465423e5e58f", null ],
+    [ "nEdgeMinus", "structtagAllTCGroups.html#a418c8451a370ba8304c49a0da1b7dd9e", null ],
+    [ "nEdgePlus", "structtagAllTCGroups.html#a2598cfad5f65f95c3862b0c53a6b4370", null ],
+    [ "nEdges", "structtagAllTCGroups.html#a6e6c6a51a16a208209d5bb530c246162", null ],
+    [ "nGroup", "structtagAllTCGroups.html#a67f6b9b576291181be7013185345aeb3", null ],
+    [ "num_atoms", "structtagAllTCGroups.html#a7b0634a83ce3b42308b6cf4b2e43f280", null ],
+    [ "num_bonds", "structtagAllTCGroups.html#aeebfac3905c187813535205ed14a3187", null ],
+    [ "num_metal_atoms", "structtagAllTCGroups.html#a8e4d5f5a7f4f9056eaef56abc2a0859e", null ],
+    [ "num_metal_bonds", "structtagAllTCGroups.html#ae40bf718ebccfe71cb55e748204235c4", null ],
+    [ "num_tc_groups", "structtagAllTCGroups.html#a407b53af2240d3461ba6d00e8d251033", null ],
+    [ "num_tgroup_edges", "structtagAllTCGroups.html#a0294561039bda2b322e0f90126d30399", null ],
+    [ "num_tgroups", "structtagAllTCGroups.html#a72b95cb6d75d43db4a95da2d0a24c38c", null ],
+    [ "nVertices", "structtagAllTCGroups.html#a3f071759eabc98c14383929e015d6bbc", null ],
+    [ "pTCG", "structtagAllTCGroups.html#a28f215f0a706ee302ab8326fc156f0dd", null ],
+    [ "tgroup_charge", "structtagAllTCGroups.html#a1ee9699adb5259a10382200984a44d77", null ],
+    [ "total_charge", "structtagAllTCGroups.html#a4b4f294b8565bed261b7523885e5abc7", null ],
+    [ "total_electrons", "structtagAllTCGroups.html#accdbcfc0a025dc8689050a2776aec8f8", null ],
+    [ "total_electrons_metals", "structtagAllTCGroups.html#ac44b5d6fdc6ee29284d0ad87a03e0472", null ]
+];
